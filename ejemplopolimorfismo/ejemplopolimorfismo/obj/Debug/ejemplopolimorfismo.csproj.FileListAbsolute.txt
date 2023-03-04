@@ -1,0 +1,21 @@
+C:\Users\alumnos\source\repos\ejemplopolimorfismo\ejemplopolimorfismo\obj\Debug\ejemplopolimorfismo.csprojAssemblyReference.cache
+C:\Users\alumnos\source\repos\ejemplopolimorfismo\ejemplopolimorfismo\obj\Debug\ejemplopolimorfismo.Form1.resources
+C:\Users\alumnos\source\repos\ejemplopolimorfismo\ejemplopolimorfismo\obj\Debug\ejemplopolimorfismo.Properties.Resources.resources
+C:\Users\alumnos\source\repos\ejemplopolimorfismo\ejemplopolimorfismo\obj\Debug\ejemplopolimorfismo.csproj.GenerateResource.cache
+C:\Users\alumnos\source\repos\ejemplopolimorfismo\ejemplopolimorfismo\obj\Debug\ejemplopolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\alumnos\source\repos\ejemplopolimorfismo\ejemplopolimorfismo\bin\Debug\ejemplopolimorfismo.exe.config
+C:\Users\alumnos\source\repos\ejemplopolimorfismo\ejemplopolimorfismo\bin\Debug\ejemplopolimorfismo.exe
+C:\Users\alumnos\source\repos\ejemplopolimorfismo\ejemplopolimorfismo\bin\Debug\ejemplopolimorfismo.pdb
+C:\Users\alumnos\source\repos\ejemplopolimorfismo\ejemplopolimorfismo\obj\Debug\ejemplopolimorfismo.exe
+C:\Users\alumnos\source\repos\ejemplopolimorfismo\ejemplopolimorfismo\obj\Debug\ejemplopolimorfismo.pdb
+E:\Uriel\italia\Técnicas de programación ejercicios\ejemplopolimorfismo\ejemplopolimorfismo\bin\Debug\ejemplopolimorfismo.exe.config
+E:\Uriel\italia\Técnicas de programación ejercicios\ejemplopolimorfismo\ejemplopolimorfismo\bin\Debug\ejemplopolimorfismo.exe
+E:\Uriel\italia\Técnicas de programación ejercicios\ejemplopolimorfismo\ejemplopolimorfismo\bin\Debug\ejemplopolimorfismo.pdb
+E:\Uriel\italia\Técnicas de programación ejercicios\ejemplopolimorfismo\ejemplopolimorfismo\obj\Debug\ejemplopolimorfismo.csproj.AssemblyReference.cache
+E:\Uriel\italia\Técnicas de programación ejercicios\ejemplopolimorfismo\ejemplopolimorfismo\obj\Debug\ejemplopolimorfismo.csproj.SuggestedBindingRedirects.cache
+E:\Uriel\italia\Técnicas de programación ejercicios\ejemplopolimorfismo\ejemplopolimorfismo\obj\Debug\ejemplopolimorfismo.Form1.resources
+E:\Uriel\italia\Técnicas de programación ejercicios\ejemplopolimorfismo\ejemplopolimorfismo\obj\Debug\ejemplopolimorfismo.Properties.Resources.resources
+E:\Uriel\italia\Técnicas de programación ejercicios\ejemplopolimorfismo\ejemplopolimorfismo\obj\Debug\ejemplopolimorfismo.csproj.GenerateResource.cache
+E:\Uriel\italia\Técnicas de programación ejercicios\ejemplopolimorfismo\ejemplopolimorfismo\obj\Debug\ejemplopolimorfismo.csproj.CoreCompileInputs.cache
+E:\Uriel\italia\Técnicas de programación ejercicios\ejemplopolimorfismo\ejemplopolimorfismo\obj\Debug\ejemplopolimorfismo.exe
+E:\Uriel\italia\Técnicas de programación ejercicios\ejemplopolimorfismo\ejemplopolimorfismo\obj\Debug\ejemplopolimorfismo.pdb

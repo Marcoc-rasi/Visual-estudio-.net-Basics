@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BibliotecaExamen/Ciclos.cs">
+    <Files>
+      <File FileName="BibliotecaExamen/Arreglos.cs" Line="1" Column="1" />
+      <File FileName="BibliotecaExamen/Ciclos.cs" Line="81" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BibliotecaExamen" expanded="True">
+            <Node name="BibliotecaExamen" expanded="True">
+              <Node name="Ciclos.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

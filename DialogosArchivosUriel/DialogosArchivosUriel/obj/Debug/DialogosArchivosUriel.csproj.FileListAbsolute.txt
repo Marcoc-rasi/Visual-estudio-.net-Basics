@@ -1,0 +1,10 @@
+C:\Users\alumnos\source\repos\DialogosArchivosUriel\DialogosArchivosUriel\bin\Debug\DialogosArchivosUriel.exe.config
+C:\Users\alumnos\source\repos\DialogosArchivosUriel\DialogosArchivosUriel\bin\Debug\DialogosArchivosUriel.exe
+C:\Users\alumnos\source\repos\DialogosArchivosUriel\DialogosArchivosUriel\bin\Debug\DialogosArchivosUriel.pdb
+C:\Users\alumnos\source\repos\DialogosArchivosUriel\DialogosArchivosUriel\obj\Debug\DialogosArchivosUriel.csprojAssemblyReference.cache
+C:\Users\alumnos\source\repos\DialogosArchivosUriel\DialogosArchivosUriel\obj\Debug\DialogosArchivosUriel.Form1.resources
+C:\Users\alumnos\source\repos\DialogosArchivosUriel\DialogosArchivosUriel\obj\Debug\DialogosArchivosUriel.Properties.Resources.resources
+C:\Users\alumnos\source\repos\DialogosArchivosUriel\DialogosArchivosUriel\obj\Debug\DialogosArchivosUriel.csproj.GenerateResource.cache
+C:\Users\alumnos\source\repos\DialogosArchivosUriel\DialogosArchivosUriel\obj\Debug\DialogosArchivosUriel.csproj.CoreCompileInputs.cache
+C:\Users\alumnos\source\repos\DialogosArchivosUriel\DialogosArchivosUriel\obj\Debug\DialogosArchivosUriel.exe
+C:\Users\alumnos\source\repos\DialogosArchivosUriel\DialogosArchivosUriel\obj\Debug\DialogosArchivosUriel.pdb

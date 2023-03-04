@@ -1,0 +1,10 @@
+C:\Users\alumnos\source\repos\ejercicioArreglos\ejercicioArreglos\bin\Debug\ejercicioArreglos.exe.config
+C:\Users\alumnos\source\repos\ejercicioArreglos\ejercicioArreglos\bin\Debug\ejercicioArreglos.exe
+C:\Users\alumnos\source\repos\ejercicioArreglos\ejercicioArreglos\bin\Debug\ejercicioArreglos.pdb
+C:\Users\alumnos\source\repos\ejercicioArreglos\ejercicioArreglos\obj\Debug\ejercicioArreglos.csprojAssemblyReference.cache
+C:\Users\alumnos\source\repos\ejercicioArreglos\ejercicioArreglos\obj\Debug\ejercicioArreglos.Form1.resources
+C:\Users\alumnos\source\repos\ejercicioArreglos\ejercicioArreglos\obj\Debug\ejercicioArreglos.Properties.Resources.resources
+C:\Users\alumnos\source\repos\ejercicioArreglos\ejercicioArreglos\obj\Debug\ejercicioArreglos.csproj.GenerateResource.cache
+C:\Users\alumnos\source\repos\ejercicioArreglos\ejercicioArreglos\obj\Debug\ejercicioArreglos.csproj.CoreCompileInputs.cache
+C:\Users\alumnos\source\repos\ejercicioArreglos\ejercicioArreglos\obj\Debug\ejercicioArreglos.exe
+C:\Users\alumnos\source\repos\ejercicioArreglos\ejercicioArreglos\obj\Debug\ejercicioArreglos.pdb

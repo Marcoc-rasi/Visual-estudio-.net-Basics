@@ -1,0 +1,21 @@
+C:\Users\alumnos\source\repos\pagosempleados\pagosempleados\bin\Debug\pagosempleados.exe.config
+C:\Users\alumnos\source\repos\pagosempleados\pagosempleados\bin\Debug\pagosempleados.exe
+C:\Users\alumnos\source\repos\pagosempleados\pagosempleados\bin\Debug\pagosempleados.pdb
+C:\Users\alumnos\source\repos\pagosempleados\pagosempleados\obj\Debug\pagosempleados.csprojAssemblyReference.cache
+C:\Users\alumnos\source\repos\pagosempleados\pagosempleados\obj\Debug\pagosempleados.Form1.resources
+C:\Users\alumnos\source\repos\pagosempleados\pagosempleados\obj\Debug\pagosempleados.Properties.Resources.resources
+C:\Users\alumnos\source\repos\pagosempleados\pagosempleados\obj\Debug\pagosempleados.csproj.GenerateResource.cache
+C:\Users\alumnos\source\repos\pagosempleados\pagosempleados\obj\Debug\pagosempleados.csproj.CoreCompileInputs.cache
+C:\Users\alumnos\source\repos\pagosempleados\pagosempleados\obj\Debug\pagosempleados.exe
+C:\Users\alumnos\source\repos\pagosempleados\pagosempleados\obj\Debug\pagosempleados.pdb
+E:\Uriel\italia\Técnicas de programación ejercicios\pagosempleados\pagosempleados\bin\Debug\pagosempleados.exe.config
+E:\Uriel\italia\Técnicas de programación ejercicios\pagosempleados\pagosempleados\bin\Debug\pagosempleados.exe
+E:\Uriel\italia\Técnicas de programación ejercicios\pagosempleados\pagosempleados\bin\Debug\pagosempleados.pdb
+E:\Uriel\italia\Técnicas de programación ejercicios\pagosempleados\pagosempleados\obj\Debug\pagosempleados.csproj.AssemblyReference.cache
+E:\Uriel\italia\Técnicas de programación ejercicios\pagosempleados\pagosempleados\obj\Debug\pagosempleados.csproj.SuggestedBindingRedirects.cache
+E:\Uriel\italia\Técnicas de programación ejercicios\pagosempleados\pagosempleados\obj\Debug\pagosempleados.Form1.resources
+E:\Uriel\italia\Técnicas de programación ejercicios\pagosempleados\pagosempleados\obj\Debug\pagosempleados.Properties.Resources.resources
+E:\Uriel\italia\Técnicas de programación ejercicios\pagosempleados\pagosempleados\obj\Debug\pagosempleados.csproj.GenerateResource.cache
+E:\Uriel\italia\Técnicas de programación ejercicios\pagosempleados\pagosempleados\obj\Debug\pagosempleados.csproj.CoreCompileInputs.cache
+E:\Uriel\italia\Técnicas de programación ejercicios\pagosempleados\pagosempleados\obj\Debug\pagosempleados.exe
+E:\Uriel\italia\Técnicas de programación ejercicios\pagosempleados\pagosempleados\obj\Debug\pagosempleados.pdb

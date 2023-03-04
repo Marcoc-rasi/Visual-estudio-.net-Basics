@@ -1,0 +1,6 @@
+c:\users\alumnos\source\repos\ListasBibliotecaUriel\ListasBibliotecaUriel\bin\Debug\ListasBibliotecaUriel.dll
+c:\users\alumnos\source\repos\ListasBibliotecaUriel\ListasBibliotecaUriel\bin\Debug\ListasBibliotecaUriel.pdb
+c:\users\alumnos\source\repos\ListasBibliotecaUriel\ListasBibliotecaUriel\obj\Debug\ListasBibliotecaUriel.csprojAssemblyReference.cache
+c:\users\alumnos\source\repos\ListasBibliotecaUriel\ListasBibliotecaUriel\obj\Debug\ListasBibliotecaUriel.csproj.CoreCompileInputs.cache
+c:\users\alumnos\source\repos\ListasBibliotecaUriel\ListasBibliotecaUriel\obj\Debug\ListasBibliotecaUriel.dll
+c:\users\alumnos\source\repos\ListasBibliotecaUriel\ListasBibliotecaUriel\obj\Debug\ListasBibliotecaUriel.pdb

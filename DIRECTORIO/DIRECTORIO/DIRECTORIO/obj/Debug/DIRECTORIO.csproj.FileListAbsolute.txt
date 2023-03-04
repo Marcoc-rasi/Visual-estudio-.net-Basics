@@ -1,0 +1,19 @@
+c:\users\alumno\documents\visual studio 2012\Projects\DIRECTORIO\DIRECTORIO\bin\Debug\DIRECTORIO.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\DIRECTORIO\DIRECTORIO\obj\Debug\DIRECTORIO.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\DIRECTORIO\DIRECTORIO\obj\Debug\DIRECTORIO.Form1.resources
+c:\users\alumno\documents\visual studio 2012\Projects\DIRECTORIO\DIRECTORIO\obj\Debug\DIRECTORIO.Properties.Resources.resources
+c:\users\alumno\documents\visual studio 2012\Projects\DIRECTORIO\DIRECTORIO\obj\Debug\DIRECTORIO.csproj.GenerateResource.Cache
+c:\users\alumno\documents\visual studio 2012\Projects\DIRECTORIO\DIRECTORIO\bin\Debug\DIRECTORIO.exe
+c:\users\alumno\documents\visual studio 2012\Projects\DIRECTORIO\DIRECTORIO\bin\Debug\DIRECTORIO.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\DIRECTORIO\DIRECTORIO\obj\Debug\DIRECTORIO.exe
+c:\users\alumno\documents\visual studio 2012\Projects\DIRECTORIO\DIRECTORIO\obj\Debug\DIRECTORIO.pdb
+C:\Users\alumnos\Downloads\DIRECTORIO\DIRECTORIO\DIRECTORIO\bin\Debug\DIRECTORIO.exe.config
+C:\Users\alumnos\Downloads\DIRECTORIO\DIRECTORIO\DIRECTORIO\bin\Debug\DIRECTORIO.exe
+C:\Users\alumnos\Downloads\DIRECTORIO\DIRECTORIO\DIRECTORIO\bin\Debug\DIRECTORIO.pdb
+C:\Users\alumnos\Downloads\DIRECTORIO\DIRECTORIO\DIRECTORIO\obj\Debug\DIRECTORIO.csprojAssemblyReference.cache
+C:\Users\alumnos\Downloads\DIRECTORIO\DIRECTORIO\DIRECTORIO\obj\Debug\DIRECTORIO.Form1.resources
+C:\Users\alumnos\Downloads\DIRECTORIO\DIRECTORIO\DIRECTORIO\obj\Debug\DIRECTORIO.Properties.Resources.resources
+C:\Users\alumnos\Downloads\DIRECTORIO\DIRECTORIO\DIRECTORIO\obj\Debug\DIRECTORIO.csproj.GenerateResource.cache
+C:\Users\alumnos\Downloads\DIRECTORIO\DIRECTORIO\DIRECTORIO\obj\Debug\DIRECTORIO.csproj.CoreCompileInputs.cache
+C:\Users\alumnos\Downloads\DIRECTORIO\DIRECTORIO\DIRECTORIO\obj\Debug\DIRECTORIO.exe
+C:\Users\alumnos\Downloads\DIRECTORIO\DIRECTORIO\DIRECTORIO\obj\Debug\DIRECTORIO.pdb

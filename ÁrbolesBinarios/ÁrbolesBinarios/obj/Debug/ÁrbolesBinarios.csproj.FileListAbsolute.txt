@@ -1,0 +1,10 @@
+C:\Users\alumnos\source\repos\ÁrbolesBinarios\ÁrbolesBinarios\bin\Debug\ÁrbolesBinarios.exe.config
+C:\Users\alumnos\source\repos\ÁrbolesBinarios\ÁrbolesBinarios\bin\Debug\ÁrbolesBinarios.exe
+C:\Users\alumnos\source\repos\ÁrbolesBinarios\ÁrbolesBinarios\bin\Debug\ÁrbolesBinarios.pdb
+C:\Users\alumnos\source\repos\ÁrbolesBinarios\ÁrbolesBinarios\obj\Debug\ÁrbolesBinarios.csprojAssemblyReference.cache
+C:\Users\alumnos\source\repos\ÁrbolesBinarios\ÁrbolesBinarios\obj\Debug\ÁrbolesBinarios.Form1.resources
+C:\Users\alumnos\source\repos\ÁrbolesBinarios\ÁrbolesBinarios\obj\Debug\ÁrbolesBinarios.Properties.Resources.resources
+C:\Users\alumnos\source\repos\ÁrbolesBinarios\ÁrbolesBinarios\obj\Debug\ÁrbolesBinarios.csproj.GenerateResource.cache
+C:\Users\alumnos\source\repos\ÁrbolesBinarios\ÁrbolesBinarios\obj\Debug\ÁrbolesBinarios.csproj.CoreCompileInputs.cache
+C:\Users\alumnos\source\repos\ÁrbolesBinarios\ÁrbolesBinarios\obj\Debug\ÁrbolesBinarios.exe
+C:\Users\alumnos\source\repos\ÁrbolesBinarios\ÁrbolesBinarios\obj\Debug\ÁrbolesBinarios.pdb

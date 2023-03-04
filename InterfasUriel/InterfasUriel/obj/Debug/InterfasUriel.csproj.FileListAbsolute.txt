@@ -1,0 +1,7 @@
+C:\Users\alumnos\source\repos\InterfasUriel\InterfasUriel\bin\Debug\InterfasUriel.exe.config
+C:\Users\alumnos\source\repos\InterfasUriel\InterfasUriel\bin\Debug\InterfasUriel.exe
+C:\Users\alumnos\source\repos\InterfasUriel\InterfasUriel\bin\Debug\InterfasUriel.pdb
+C:\Users\alumnos\source\repos\InterfasUriel\InterfasUriel\obj\Debug\InterfasUriel.csprojAssemblyReference.cache
+C:\Users\alumnos\source\repos\InterfasUriel\InterfasUriel\obj\Debug\InterfasUriel.csproj.CoreCompileInputs.cache
+C:\Users\alumnos\source\repos\InterfasUriel\InterfasUriel\obj\Debug\InterfasUriel.exe
+C:\Users\alumnos\source\repos\InterfasUriel\InterfasUriel\obj\Debug\InterfasUriel.pdb

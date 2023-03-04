@@ -1,0 +1,21 @@
+C:\Users\Marcos\source\repos\AgendaPorInterfacesUriel\bin\Debug\AgendaPorInterfacesUriel.exe.config
+C:\Users\Marcos\source\repos\AgendaPorInterfacesUriel\bin\Debug\AgendaPorInterfacesUriel.exe
+C:\Users\Marcos\source\repos\AgendaPorInterfacesUriel\bin\Debug\AgendaPorInterfacesUriel.pdb
+C:\Users\Marcos\source\repos\AgendaPorInterfacesUriel\obj\Debug\AgendaPorInterfacesUriel.csprojAssemblyReference.cache
+C:\Users\Marcos\source\repos\AgendaPorInterfacesUriel\obj\Debug\AgendaPorInterfacesUriel.Form1.resources
+C:\Users\Marcos\source\repos\AgendaPorInterfacesUriel\obj\Debug\AgendaPorInterfacesUriel.Properties.Resources.resources
+C:\Users\Marcos\source\repos\AgendaPorInterfacesUriel\obj\Debug\AgendaPorInterfacesUriel.csproj.GenerateResource.cache
+C:\Users\Marcos\source\repos\AgendaPorInterfacesUriel\obj\Debug\AgendaPorInterfacesUriel.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\AgendaPorInterfacesUriel\obj\Debug\AgendaPorInterfacesUriel.exe
+C:\Users\Marcos\source\repos\AgendaPorInterfacesUriel\obj\Debug\AgendaPorInterfacesUriel.pdb
+E:\Uriel\italia\Técnicas de programación ejercicios\AgendaPorInterfacesUriel\bin\Debug\AgendaPorInterfacesUriel.exe.config
+E:\Uriel\italia\Técnicas de programación ejercicios\AgendaPorInterfacesUriel\bin\Debug\AgendaPorInterfacesUriel.exe
+E:\Uriel\italia\Técnicas de programación ejercicios\AgendaPorInterfacesUriel\bin\Debug\AgendaPorInterfacesUriel.pdb
+E:\Uriel\italia\Técnicas de programación ejercicios\AgendaPorInterfacesUriel\obj\Debug\AgendaPorInterfacesUriel.csproj.AssemblyReference.cache
+E:\Uriel\italia\Técnicas de programación ejercicios\AgendaPorInterfacesUriel\obj\Debug\AgendaPorInterfacesUriel.csproj.SuggestedBindingRedirects.cache
+E:\Uriel\italia\Técnicas de programación ejercicios\AgendaPorInterfacesUriel\obj\Debug\AgendaPorInterfacesUriel.Form1.resources
+E:\Uriel\italia\Técnicas de programación ejercicios\AgendaPorInterfacesUriel\obj\Debug\AgendaPorInterfacesUriel.Properties.Resources.resources
+E:\Uriel\italia\Técnicas de programación ejercicios\AgendaPorInterfacesUriel\obj\Debug\AgendaPorInterfacesUriel.csproj.GenerateResource.cache
+E:\Uriel\italia\Técnicas de programación ejercicios\AgendaPorInterfacesUriel\obj\Debug\AgendaPorInterfacesUriel.csproj.CoreCompileInputs.cache
+E:\Uriel\italia\Técnicas de programación ejercicios\AgendaPorInterfacesUriel\obj\Debug\AgendaPorInterfacesUriel.exe
+E:\Uriel\italia\Técnicas de programación ejercicios\AgendaPorInterfacesUriel\obj\Debug\AgendaPorInterfacesUriel.pdb

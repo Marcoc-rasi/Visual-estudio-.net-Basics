@@ -1,0 +1,21 @@
+C:\Users\alumnos\source\repos\CajerosUriel\CajerosUriel\bin\Debug\CajerosUriel.exe.config
+C:\Users\alumnos\source\repos\CajerosUriel\CajerosUriel\bin\Debug\CajerosUriel.exe
+C:\Users\alumnos\source\repos\CajerosUriel\CajerosUriel\bin\Debug\CajerosUriel.pdb
+C:\Users\alumnos\source\repos\CajerosUriel\CajerosUriel\obj\Debug\CajerosUriel.csprojAssemblyReference.cache
+C:\Users\alumnos\source\repos\CajerosUriel\CajerosUriel\obj\Debug\CajerosUriel.Form1.resources
+C:\Users\alumnos\source\repos\CajerosUriel\CajerosUriel\obj\Debug\CajerosUriel.Properties.Resources.resources
+C:\Users\alumnos\source\repos\CajerosUriel\CajerosUriel\obj\Debug\CajerosUriel.csproj.GenerateResource.cache
+C:\Users\alumnos\source\repos\CajerosUriel\CajerosUriel\obj\Debug\CajerosUriel.csproj.CoreCompileInputs.cache
+C:\Users\alumnos\source\repos\CajerosUriel\CajerosUriel\obj\Debug\CajerosUriel.exe
+C:\Users\alumnos\source\repos\CajerosUriel\CajerosUriel\obj\Debug\CajerosUriel.pdb
+E:\Uriel\italia\Técnicas de programación ejercicios\CajerosUriel\CajerosUriel\bin\Debug\CajerosUriel.exe.config
+E:\Uriel\italia\Técnicas de programación ejercicios\CajerosUriel\CajerosUriel\bin\Debug\CajerosUriel.exe
+E:\Uriel\italia\Técnicas de programación ejercicios\CajerosUriel\CajerosUriel\bin\Debug\CajerosUriel.pdb
+E:\Uriel\italia\Técnicas de programación ejercicios\CajerosUriel\CajerosUriel\obj\Debug\CajerosUriel.csproj.AssemblyReference.cache
+E:\Uriel\italia\Técnicas de programación ejercicios\CajerosUriel\CajerosUriel\obj\Debug\CajerosUriel.csproj.SuggestedBindingRedirects.cache
+E:\Uriel\italia\Técnicas de programación ejercicios\CajerosUriel\CajerosUriel\obj\Debug\CajerosUriel.Form1.resources
+E:\Uriel\italia\Técnicas de programación ejercicios\CajerosUriel\CajerosUriel\obj\Debug\CajerosUriel.Properties.Resources.resources
+E:\Uriel\italia\Técnicas de programación ejercicios\CajerosUriel\CajerosUriel\obj\Debug\CajerosUriel.csproj.GenerateResource.cache
+E:\Uriel\italia\Técnicas de programación ejercicios\CajerosUriel\CajerosUriel\obj\Debug\CajerosUriel.csproj.CoreCompileInputs.cache
+E:\Uriel\italia\Técnicas de programación ejercicios\CajerosUriel\CajerosUriel\obj\Debug\CajerosUriel.exe
+E:\Uriel\italia\Técnicas de programación ejercicios\CajerosUriel\CajerosUriel\obj\Debug\CajerosUriel.pdb

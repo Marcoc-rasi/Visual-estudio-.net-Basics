@@ -1,0 +1,10 @@
+C:\Users\alumnos\source\repos\MedianaUriel\MedianaUriel\bin\Debug\MedianaUriel.exe.config
+C:\Users\alumnos\source\repos\MedianaUriel\MedianaUriel\bin\Debug\MedianaUriel.exe
+C:\Users\alumnos\source\repos\MedianaUriel\MedianaUriel\bin\Debug\MedianaUriel.pdb
+C:\Users\alumnos\source\repos\MedianaUriel\MedianaUriel\obj\Debug\MedianaUriel.csprojAssemblyReference.cache
+C:\Users\alumnos\source\repos\MedianaUriel\MedianaUriel\obj\Debug\MedianaUriel.Form1.resources
+C:\Users\alumnos\source\repos\MedianaUriel\MedianaUriel\obj\Debug\MedianaUriel.Properties.Resources.resources
+C:\Users\alumnos\source\repos\MedianaUriel\MedianaUriel\obj\Debug\MedianaUriel.csproj.GenerateResource.cache
+C:\Users\alumnos\source\repos\MedianaUriel\MedianaUriel\obj\Debug\MedianaUriel.csproj.CoreCompileInputs.cache
+C:\Users\alumnos\source\repos\MedianaUriel\MedianaUriel\obj\Debug\MedianaUriel.exe
+C:\Users\alumnos\source\repos\MedianaUriel\MedianaUriel\obj\Debug\MedianaUriel.pdb

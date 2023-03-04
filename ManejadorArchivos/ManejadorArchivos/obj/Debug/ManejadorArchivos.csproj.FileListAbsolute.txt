@@ -1,0 +1,10 @@
+C:\Users\alumnos\source\repos\ManejadorArchivos\ManejadorArchivos\bin\Debug\ManejadorArchivos.exe.config
+C:\Users\alumnos\source\repos\ManejadorArchivos\ManejadorArchivos\bin\Debug\ManejadorArchivos.exe
+C:\Users\alumnos\source\repos\ManejadorArchivos\ManejadorArchivos\bin\Debug\ManejadorArchivos.pdb
+C:\Users\alumnos\source\repos\ManejadorArchivos\ManejadorArchivos\obj\Debug\ManejadorArchivos.csprojAssemblyReference.cache
+C:\Users\alumnos\source\repos\ManejadorArchivos\ManejadorArchivos\obj\Debug\ManejadorArchivos.frmPrincipal.resources
+C:\Users\alumnos\source\repos\ManejadorArchivos\ManejadorArchivos\obj\Debug\ManejadorArchivos.Properties.Resources.resources
+C:\Users\alumnos\source\repos\ManejadorArchivos\ManejadorArchivos\obj\Debug\ManejadorArchivos.csproj.GenerateResource.cache
+C:\Users\alumnos\source\repos\ManejadorArchivos\ManejadorArchivos\obj\Debug\ManejadorArchivos.csproj.CoreCompileInputs.cache
+C:\Users\alumnos\source\repos\ManejadorArchivos\ManejadorArchivos\obj\Debug\ManejadorArchivos.exe
+C:\Users\alumnos\source\repos\ManejadorArchivos\ManejadorArchivos\obj\Debug\ManejadorArchivos.pdb

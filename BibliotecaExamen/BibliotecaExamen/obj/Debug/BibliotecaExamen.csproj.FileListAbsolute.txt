@@ -1,0 +1,8 @@
+c:\users\canica\source\repos\BibliotecaExamen\BibliotecaExamen\bin\Debug\BibliotecaExamen.dll
+c:\users\canica\source\repos\BibliotecaExamen\BibliotecaExamen\bin\Debug\BibliotecaExamen.pdb
+c:\users\canica\source\repos\BibliotecaExamen\BibliotecaExamen\obj\Debug\BibliotecaExamen.csprojAssemblyReference.cache
+c:\users\canica\source\repos\BibliotecaExamen\BibliotecaExamen\obj\Debug\BibliotecaExamen.csproj.CoreCompileInputs.cache
+c:\users\canica\source\repos\BibliotecaExamen\BibliotecaExamen\obj\Debug\BibliotecaExamen.dll
+c:\users\canica\source\repos\BibliotecaExamen\BibliotecaExamen\obj\Debug\BibliotecaExamen.pdb
+C:\Users\Marcos\source\repos\BibliotecaExamen\BibliotecaExamen\obj\Debug\BibliotecaExamen.dll
+C:\Users\Marcos\source\repos\BibliotecaExamen\BibliotecaExamen\obj\Debug\BibliotecaExamen.pdb
