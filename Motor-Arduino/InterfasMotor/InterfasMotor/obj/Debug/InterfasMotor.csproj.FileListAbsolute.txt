@@ -1,0 +1,20 @@
+C:\Users\alumnos\Desktop\InterfasMotor\InterfasMotor\bin\Debug\InterfasMotor.exe.config
+C:\Users\alumnos\Desktop\InterfasMotor\InterfasMotor\bin\Debug\InterfasMotor.exe
+C:\Users\alumnos\Desktop\InterfasMotor\InterfasMotor\bin\Debug\InterfasMotor.pdb
+C:\Users\alumnos\Desktop\InterfasMotor\InterfasMotor\obj\Debug\InterfasMotor.csprojAssemblyReference.cache
+C:\Users\alumnos\Desktop\InterfasMotor\InterfasMotor\obj\Debug\InterfasMotor.Form1.resources
+C:\Users\alumnos\Desktop\InterfasMotor\InterfasMotor\obj\Debug\InterfasMotor.Properties.Resources.resources
+C:\Users\alumnos\Desktop\InterfasMotor\InterfasMotor\obj\Debug\InterfasMotor.csproj.GenerateResource.cache
+C:\Users\alumnos\Desktop\InterfasMotor\InterfasMotor\obj\Debug\InterfasMotor.csproj.CoreCompileInputs.cache
+C:\Users\alumnos\Desktop\InterfasMotor\InterfasMotor\obj\Debug\InterfasMotor.exe
+C:\Users\alumnos\Desktop\InterfasMotor\InterfasMotor\obj\Debug\InterfasMotor.pdb
+C:\Users\Marcos\Documents\Escuela\tecnicas de programacion\laboratorio\InterfasMotor\InterfasMotor\bin\Debug\InterfasMotor.exe.config
+C:\Users\Marcos\Documents\Escuela\tecnicas de programacion\laboratorio\InterfasMotor\InterfasMotor\bin\Debug\InterfasMotor.exe
+C:\Users\Marcos\Documents\Escuela\tecnicas de programacion\laboratorio\InterfasMotor\InterfasMotor\bin\Debug\InterfasMotor.pdb
+C:\Users\Marcos\Documents\Escuela\tecnicas de programacion\laboratorio\InterfasMotor\InterfasMotor\obj\Debug\InterfasMotor.csprojAssemblyReference.cache
+C:\Users\Marcos\Documents\Escuela\tecnicas de programacion\laboratorio\InterfasMotor\InterfasMotor\obj\Debug\InterfasMotor.Form1.resources
+C:\Users\Marcos\Documents\Escuela\tecnicas de programacion\laboratorio\InterfasMotor\InterfasMotor\obj\Debug\InterfasMotor.Properties.Resources.resources
+C:\Users\Marcos\Documents\Escuela\tecnicas de programacion\laboratorio\InterfasMotor\InterfasMotor\obj\Debug\InterfasMotor.csproj.GenerateResource.cache
+C:\Users\Marcos\Documents\Escuela\tecnicas de programacion\laboratorio\InterfasMotor\InterfasMotor\obj\Debug\InterfasMotor.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\Escuela\tecnicas de programacion\laboratorio\InterfasMotor\InterfasMotor\obj\Debug\InterfasMotor.exe
+C:\Users\Marcos\Documents\Escuela\tecnicas de programacion\laboratorio\InterfasMotor\InterfasMotor\obj\Debug\InterfasMotor.pdb
